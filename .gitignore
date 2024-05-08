@@ -12,3 +12,4 @@ solidity-verifiers/generated
 examples/*.sol
 examples/*.calldata
 examples/*.inputs
+*_js
