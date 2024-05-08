@@ -47,3 +47,7 @@ path = "../examples/full_flow.rs"
 [[example]]
 name = "circom_full_flow"
 path = "../examples/circom_full_flow.rs"
+
+[[example]]
+name = "circom_full_flow_nested_template"
+path = "../examples/circom_full_flow_nested_template.rs"
